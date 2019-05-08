@@ -123,11 +123,6 @@
 			<key>orderHint</key>
 			<integer>18</integer>
 		</dict>
-		<key>testdeletescheme.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>25</integer>
-		</dict>
 		<key>todayextension.xcscheme</key>
 		<dict>
 			<key>isShown</key>
